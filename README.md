@@ -3,7 +3,7 @@
 # https://dadjokes-c0ce6.firebaseapp.com/
 
 
-> some dad jokes, using nuxt.js
+> some dad jokes, using nuxt.js & Firebase
 
 ## Build Setup
 
